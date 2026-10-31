@@ -1,16 +1,15 @@
-
-<!-- ================================================= -->
-<!-- LUIS24 // HACKER HUD PROFILE -->
-<!-- RED / BLACK / WHITE EDITION -->
-<!-- ================================================= -->
+<!-- =========================================================
+     LUIS24 // HACKER HUD PROFILE
+     Palette: RED / BLACK / WHITE
+     Replace this file in the profile repository:
+     https://github.com/Luis24-crear/Luis24-crear
+========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=LUIS24&fontSize=85&fontColor=FFFFFF&stroke=FF2638&strokeWidth=2&animation=fadeIn&color=0:050505,50:24070C,100:050505&desc=DEVELOPER%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=16&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=LUIS24&fontSize=82&fontColor=FFFFFF&stroke=FF2638&strokeWidth=2&animation=fadeIn&color=0:050505,50:24070C,100:050505&desc=DEVELOPER%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=16&descAlignY=76"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF2638&center=true&vCenter=true&width=750&height=55&lines=%3E+SYSTEM+INITIALIZED...;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+DEVELOPING+IDEAS+INTO+SOLUTIONS;%3E+LEARN.+BUILD.+DEBUG.+REPEAT."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FF2638&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%3E+SYSTEM+INITIALIZED...;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+BUILDING+IDEAS+INTO+SOLUTIONS;%3E+LEARN.+BUILD.+DEBUG.+REPEAT."/>
 
 <br/>
 
@@ -22,8 +21,6 @@
 
 ---
 
-<!-- ================= PROFILE ================= -->
-
 ## `01 // PLAYER PROFILE`
 
 <table>
@@ -33,33 +30,31 @@
 ### `whoami.exe`
 
 ```yaml
-NAME: Luis
-USERNAME: Luis24-crear
-ROLE: Developer in training
-STATUS: Learning and building
+Nombre: Luis
+Usuario: Luis24-crear
+Rol: Desarrollador en formación
+Estado: Aprendiendo y creando
 
-INTERESTS:
-  - Software development
-  - Web development
-  - Automation
-  - Artificial intelligence
-  - Networks and technology
+Intereses:
+  - Desarrollo de software
+  - Desarrollo web
+  - Automatización
+  - Inteligencia artificial
+  - Redes y tecnología
 
-MISSION:
-  Learn, create, innovate and improve.
+Misión: Aprender, crear e innovar mediante la tecnología.
 ```
 
-💻 Me apasiona explorar nuevas tecnologías y desarrollar proyectos que transformen ideas en soluciones digitales.
+💻 Me gusta explorar nuevas tecnologías y desarrollar proyectos que conviertan ideas en soluciones digitales.
 
-🚀 Actualmente sigo fortaleciendo mis conocimientos en programación, desarrollo de software y herramientas tecnológicas.
+🚀 Estoy en constante aprendizaje, experimentando con diferentes lenguajes, herramientas y tecnologías.
 
-⚡ Me gusta experimentar, resolver problemas y aprender mediante proyectos prácticos.
+⚡ Este perfil reúne mis proyectos, prácticas y experimentos de programación.
 
 </td>
-
 <td width="42%" valign="top">
 
-### `SYSTEM STATUS`
+### `SYSTEM MONITOR`
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Luis24-crear&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2638&icon_color=FF2638&text_color=FFFFFF&rank_icon=github"/>
 
@@ -70,8 +65,6 @@ MISSION:
 </table>
 
 ---
-
-<!-- ================= TECHNOLOGIES ================= -->
 
 ## `02 // TECH ARSENAL`
 
@@ -92,18 +85,15 @@ MISSION:
 ### `DATABASES`
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
-
 <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/><br/>
 
-### `DEVELOPMENT TOOLS`
+### `TOOLS & PLATFORMS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino,unity&theme=dark"/>
 
 <br/><br/>
-
-### `OTHER PLATFORMS`
 
 <img src="https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -111,21 +101,23 @@ MISSION:
 
 </div>
 
----
+> Edit this section whenever your actual tools and experience change. Keep only technologies you can confidently discuss.
 
-<!-- ================= PROJECTS ================= -->
+---
 
 ## `03 // PROJECT DATABASE`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-REGISTERED-FF2638?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-FFFFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/PROJECTS-ON_RECORD-FF2638?style=for-the-badge&labelColor=080808"/>
+<a href="https://github.com/Luis24-crear?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN-ALL_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080808"/>
+</a>
 
 </div>
 
-| ID | Project | Technology |
-|:---:|---|---|
+| ID | Proyecto | Tecnología |
+|:--:|---|---|
 | `01` | 🔍 Detector de señales — v1.1 | Jupyter Notebook |
 | `02` | 🌱 Usuario de EcoRewards | Java |
 | `03` | 🎓 Academia Foxus | CSS |
@@ -133,17 +125,13 @@ MISSION:
 | `05` | 🍽️ APP-RESTAURANTE | TypeScript |
 | `06` | ⚙️ Panel de administración de Foxus Academy | CSS |
 
-<div align="center">
-
-<a href="https://github.com/Luis24-crear?tab=repositories">
-<img src="https://img.shields.io/badge/ACCESS%20ALL%20PROJECTS-FF2638?style=for-the-badge&logo=github&logoColor=white&labelColor=080808"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Luis24-crear?tab=repositories">
+    <img src="https://img.shields.io/badge/ACCESS_PROJECT_DATABASE-FF2638?style=for-the-badge&logo=github&logoColor=white&labelColor=080808"/>
+  </a>
+</p>
 
 ---
-
-<!-- ================= GITHUB STATS ================= -->
 
 ## `04 // PERFORMANCE MONITOR`
 
@@ -159,19 +147,15 @@ MISSION:
 
 ---
 
-<!-- ================= 3D CONTRIBUTIONS ================= -->
-
 ## `05 // 3D CONTRIBUTION SYSTEM`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph"/>
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D contribution graph"/>
 
 </div>
 
 ---
-
-<!-- ================= SNAKE ANIMATION ================= -->
 
 ## `06 // SNAKE PROTOCOL`
 
@@ -180,14 +164,12 @@ MISSION:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" width="100%" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
-
-<!-- ================= CURRENT OBJECTIVES ================= -->
 
 ## `07 // CURRENT OBJECTIVES`
 
@@ -200,33 +182,31 @@ MISSION:
 
 </div>
 
-- Expandir mis conocimientos de programación.
+- Ampliar mis conocimientos de programación.
 - Desarrollar proyectos tecnológicos.
-- Mejorar mis habilidades de resolución de problemas.
+- Mejorar mis habilidades para resolver problemas.
 - Explorar nuevas herramientas y tecnologías.
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## `08 // ESTABLISH CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/Luis24-crear">
-<img src="https://img.shields.io/badge/GITHUB-LUIS24--CREAR-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080808&color=FF2638"/>
+  <img src="https://img.shields.io/badge/GITHUB-LUIS24--CREAR-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080808&color=FF2638"/>
 </a>
 
-<!-- Add your LinkedIn profile URL when available.
+<!-- Cuando tengas tu URL pública de LinkedIn, elimina los comentarios y reemplaza el enlace.
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 -->
 
 <br/><br/>
 
 ```bash
-> INITIALIZING LUIS24.exe
+$ ./Luis24.exe
 
 [OK] LEARNING
 [OK] BUILDING
@@ -236,8 +216,8 @@ MISSION:
 > SYSTEM READY_
 ```
 
-**Thanks for visiting my digital workspace.**
+**Gracias por visitar mi espacio digital.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24070C,100:050505&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24070C,100:050505&height=120&section=footer"/>
 
 </div>
