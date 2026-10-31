@@ -1,167 +1,243 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ================================================= -->
+<!-- LUIS24 // HACKER HUD PROFILE -->
+<!-- RED / BLACK / WHITE EDITION -->
+<!-- ================================================= -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A12,50:171B3D,100:00D9FF&height=220&section=header&text=LUIS24&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20TECHNOLOGY%20%7C%20GAMING&descAlignY=58&descSize=17"/>
-</p>
+<div align="center">
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=LUIS24&fontSize=85&fontColor=FFFFFF&stroke=FF2638&strokeWidth=2&animation=fadeIn&color=0:050505,50:24070C,100:050505&desc=DEVELOPER%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=16&descAlignY=75"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Luis+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n+%F0%9F%92%BB;Explorando+nuevas+tecnolog%C3%ADas+%F0%9F%9A%80;Construyendo+proyectos+con+c%C3%B3digo+%E2%9A%A1"/>
-</h1>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luis24-crear&style=for-the-badge&color=00D9FF&label=VISITAS"/>
-  <img src="https://img.shields.io/github/followers/Luis24-crear?style=for-the-badge&color=7C3AED&label=SEGUIDORES"/>
-  <img src="https://img.shields.io/github/stars/Luis24-crear?style=for-the-badge&color=00D9FF&label=ESTRELLAS"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF2638&center=true&vCenter=true&width=750&height=55&lines=%3E+SYSTEM+INITIALIZED...;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+DEVELOPING+IDEAS+INTO+SOLUTIONS;%3E+LEARN.+BUILD.+DEBUG.+REPEAT."/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF2638?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/PROFILE-LUIS24-FFFFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://komarev.com/ghpvc/?username=Luis24-crear&style=for-the-badge&color=FF2638&label=PROFILE+VISITS"/>
+
+</div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ================= PROFILE ================= -->
 
-## <img src="https://img.shields.io/badge/ABOUT%20ME-00D9FF?style=flat-square&logo=github&logoColor=black"/> Sobre mí
+## `01 // PLAYER PROFILE`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `whoami.exe`
 
 ```yaml
-Nombre: Luis
-Usuario: Luis24-crear
-Rol: Desarrollador en formación
-Intereses:
-  - Desarrollo de software
-  - Desarrollo web
-  - Automatización
-  - Redes y tecnología
-  - Inteligencia artificial
-Objetivo: Aprender, crear e innovar mediante la tecnología.
+NAME: Luis
+USERNAME: Luis24-crear
+ROLE: Developer in training
+STATUS: Learning and building
+
+INTERESTS:
+  - Software development
+  - Web development
+  - Automation
+  - Artificial intelligence
+  - Networks and technology
+
+MISSION:
+  Learn, create, innovate and improve.
 ```
 
-💻 Me gusta explorar nuevas tecnologías y desarrollar proyectos que permitan convertir ideas en soluciones digitales.
+💻 Me apasiona explorar nuevas tecnologías y desarrollar proyectos que transformen ideas en soluciones digitales.
 
-🚀 En constante aprendizaje, experimentando con diferentes lenguajes, herramientas y tecnologías.
+🚀 Actualmente sigo fortaleciendo mis conocimientos en programación, desarrollo de software y herramientas tecnológicas.
 
-⚡ Este perfil reúne algunos de mis proyectos, prácticas y experimentos de programación.
+⚡ Me gusta experimentar, resolver problemas y aprender mediante proyectos prácticos.
 
----
+</td>
 
-<!-- ==================== TECH STACK ==================== -->
+<td width="42%" valign="top">
 
-## <img src="https://img.shields.io/badge/TECH%20STACK-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white"/> Tecnologías y herramientas
+### `SYSTEM STATUS`
 
-### 💻 Lenguajes de programación
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Luis24-crear&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2638&icon_color=FF2638&text_color=FFFFFF&rank_icon=github"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,powershell,html,css&theme=dark"/>
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis24-crear&layout=compact&langs_count=7&hide_border=true&bg_color=080808&title_color=FF2638&text_color=FFFFFF"/>
 
-### 🌐 Desarrollo web
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,firebase&theme=dark"/>
-</p>
-
-### 🗄️ Bases de datos
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 🛠️ Herramientas y plataformas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,unity&theme=dark"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ================= TECHNOLOGIES ================= -->
 
-## <img src="https://img.shields.io/badge/MY%20PROJECTS-00D9FF?style=flat-square&logo=github&logoColor=black"/> Proyectos destacados
+## `02 // TECH ARSENAL`
 
-<p align="center">
-  <a href="https://github.com/Luis24-crear?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR%20MIS%20REPOSITORIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-| Proyecto | Tecnología |
-|---|---|
-| 🔍 Detector de señales — v1.1 | Jupyter Notebook |
-| 🌱 Usuario de EcoRewards | Java |
-| 🎓 Academia Foxus | CSS |
-| 🤖 chathot12 | TypeScript |
-| 🍽️ APP-RESTAURANTE | TypeScript |
-| ⚙️ Panel de administración de Foxus Academy | CSS |
+### `PROGRAMMING LANGUAGES`
 
----
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,powershell,html,css&theme=dark"/>
 
-<!-- ==================== GITHUB STATS ==================== -->
+<br/><br/>
 
-## <img src="https://img.shields.io/badge/GITHUB%20STATS-7C3AED?style=flat-square&logo=github&logoColor=white"/> Estadísticas de GitHub
+### `WEB DEVELOPMENT`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis24-crear&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis24-crear&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,firebase&theme=dark"/>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Luis24-crear&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF"/>
-</p>
+<br/><br/>
 
----
+### `DATABASES`
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
 
-## <img src="https://img.shields.io/badge/ACTIVITY-00D9FF?style=flat-square&logo=github&logoColor=black"/> Mi actividad
+<img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luis24-crear&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=7C3AED&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
-</p>
+<br/><br/>
+
+### `DEVELOPMENT TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino,unity&theme=dark"/>
+
+<br/><br/>
+
+### `OTHER PLATFORMS`
+
+<img src="https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</div>
 
 ---
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- ================= PROJECTS ================= -->
 
-## 🐍 Mi actividad en movimiento
+## `03 // PROJECT DATABASE`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-REGISTERED-FF2638?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-FFFFFF?style=for-the-badge&labelColor=080808"/>
+
+</div>
+
+| ID | Project | Technology |
+|:---:|---|---|
+| `01` | 🔍 Detector de señales — v1.1 | Jupyter Notebook |
+| `02` | 🌱 Usuario de EcoRewards | Java |
+| `03` | 🎓 Academia Foxus | CSS |
+| `04` | 🤖 chathot12 | TypeScript |
+| `05` | 🍽️ APP-RESTAURANTE | TypeScript |
+| `06` | ⚙️ Panel de administración de Foxus Academy | CSS |
+
+<div align="center">
+
+<a href="https://github.com/Luis24-crear?tab=repositories">
+<img src="https://img.shields.io/badge/ACCESS%20ALL%20PROJECTS-FF2638?style=for-the-badge&logo=github&logoColor=white&labelColor=080808"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ================= GITHUB STATS ================= -->
 
-## 🌐 Conecta conmigo
+## `04 // PERFORMANCE MONITOR`
 
-<p align="center">
-  <a href="https://github.com/Luis24-crear">
-    <img src="https://img.shields.io/badge/GitHub-Luis24--crear-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  💬 Siempre abierto a aprender, colaborar y desarrollar nuevas ideas.
-</p>
+<img width="100%" src="https://streak-stats.demolab.com?user=Luis24-crear&theme=dark&hide_border=true&background=080808&ring=FF2638&fire=FF2638&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
-<!-- ==================== FOOTER ==================== -->
+<br/><br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:171B3D,100:080A12&height=120&section=footer"/>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luis24-crear&bg_color=080808&color=FFFFFF&line=FF2638&point=FFFFFF&area=true&area_color=5A101A&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
-<h3 align="center">
-  <code>while(alive) { learn(); build(); repeat(); }</code>
-</h3>
+</div>
 
-<p align="center">
-  <b>Gracias por visitar mi perfil. ¡Nos vemos en el código! ⚡</b>
-</p>
+---
+
+<!-- ================= 3D CONTRIBUTIONS ================= -->
+
+## `05 // 3D CONTRIBUTION SYSTEM`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph"/>
+
+</div>
+
+---
+
+<!-- ================= SNAKE ANIMATION ================= -->
+
+## `06 // SNAKE PROTOCOL`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ================= CURRENT OBJECTIVES ================= -->
+
+## `07 // CURRENT OBJECTIVES`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-LEARN-FF2638?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/02-CREATE-FFFFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/03-INNOVATE-FF2638?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/04-REPEAT-FFFFFF?style=for-the-badge&labelColor=080808"/>
+
+</div>
+
+- Expandir mis conocimientos de programación.
+- Desarrollar proyectos tecnológicos.
+- Mejorar mis habilidades de resolución de problemas.
+- Explorar nuevas herramientas y tecnologías.
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## `08 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/Luis24-crear">
+<img src="https://img.shields.io/badge/GITHUB-LUIS24--CREAR-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080808&color=FF2638"/>
+</a>
+
+<!-- Add your LinkedIn profile URL when available.
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+<br/><br/>
+
+```bash
+> INITIALIZING LUIS24.exe
+
+[OK] LEARNING
+[OK] BUILDING
+[OK] DEBUGGING
+[OK] IMPROVING
+
+> SYSTEM READY_
+```
+
+**Thanks for visiting my digital workspace.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24070C,100:050505&height=130&section=footer"/>
+
+</div>
