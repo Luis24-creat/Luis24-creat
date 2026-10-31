@@ -58,7 +58,7 @@ alt="Top Languages">
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D contribution profile">
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 
 </div>
 
