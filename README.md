@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="./assets/shintaro-coding.gif" width="420" alt="Anime character coding">
+<img src="./shintaro-coding.gif" width="420" alt="Anime character coding">
 
 </div>
 
@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img src="./assets/anime-chibi.png" width="190" alt="Anime chibi character">
-<img src="./assets/anime-portrait.png" width="190" alt="Anime portrait">
+<img src="./anime-chibi.png" width="190" alt="Anime chibi character">
+<img src="./anime-portrait.png" width="190" alt="Anime portrait">
 
 </div>
 
