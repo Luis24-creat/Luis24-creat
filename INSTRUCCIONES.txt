@@ -1,0 +1,27 @@
+PAQUETE GITHUB CORREGIDO — LUIS24-CREAT
+
+Datos confirmados:
+- Usuario GitHub: Luis24-creat
+- Repositorio compartido: Luis24-crear
+- URL: https://github.com/Luis24-creat/Luis24-crear
+- Rama de la serpiente: output
+
+Contenido:
+- README.md corregido
+- assets/ con el banner, imágenes y GIF
+- .github/workflows/snake.yml
+- .github/workflows/profile-3d.yml
+
+Instalación:
+1. Descomprime este ZIP.
+2. Abre https://github.com/Luis24-creat/Luis24-crear
+3. Sube el CONTENIDO de esta carpeta a la raíz del repositorio (README.md, assets y .github). No subas la carpeta contenedora.
+4. Confirma con Commit changes.
+5. En Actions, ejecuta manualmente los workflows.
+6. Si Actions no puede escribir, revisa Settings > Actions > General > Workflow permissions y habilita Read and write permissions.
+
+Importante:
+Este README se mostrará en la página del repositorio Luis24-crear.
+Para que GitHub lo muestre automáticamente en la portada del perfil https://github.com/Luis24-creat, se necesita además un repositorio público llamado exactamente Luis24-creat.
+La serpiente se lee desde Luis24-creat/Luis24-crear, rama output.
+El gráfico 3D se genera dentro del repositorio donde se instala el workflow.
