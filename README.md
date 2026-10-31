@@ -50,10 +50,9 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D contribution profile">
 </div>
 
-## 🐍 Actividad
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luis24-crear/Luis24-crear/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+  <h2>🐍 MY CONTRIBUTION SNAKE</h2>
+  <img src="https://raw.githubusercontent.com/Luis24-creat/Luis24-crear/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ## 🎧 Anime coding corner
