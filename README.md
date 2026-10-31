@@ -44,13 +44,17 @@
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=Luis24-creat&show_icons=true&theme=dark&hide_border=true&title_color=ff4055&icon_color=ff4055&text_color=ffffff"
-alt="GitHub Stats">
+<a href="https://github.com/Luis24-creat">
+  <img height="165"
+  src="https://github-stats-extended.vercel.app/api?username=Luis24-creat&show_icons=true&theme=dark&hide_border=true&title_color=ff4055&icon_color=ff4055&text_color=ffffff&bg_color=0d1117"
+  alt="Estadísticas de GitHub"/>
+</a>
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis24-creat&layout=compact&theme=dark&hide_border=true&title_color=ff4055&text_color=ffffff"
-alt="Top Languages">
+<a href="https://github.com/Luis24-creat">
+  <img height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luis24-creat&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ff4055&text_color=ffffff&bg_color=0d1117"
+  alt="Lenguajes principales"/>
+</a>
 
 </div>
 
