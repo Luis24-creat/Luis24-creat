@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/anime-banner.png" width="100%" alt="Luis24 anime developer banner">
+<img src="./anime-banner.png" width="100%" alt="Luis24 anime developer banner">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF4055&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Luis+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n;Explorando+software%2C+redes+y+automatizaci%C3%B3n;Learn.+Build.+Debug.+Repeat." alt="Typing animation">
 
