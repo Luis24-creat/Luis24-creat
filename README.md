@@ -41,7 +41,6 @@
 | APP-RESTAURANTE            | TypeScript       |
 
 ## 📊 GitHub
-
 <div align="center">
 
 <a href="https://github.com/Luis24-creat">
@@ -55,6 +54,8 @@
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luis24-creat&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ff4055&text_color=ffffff&bg_color=0d1117"
   alt="Lenguajes principales"/>
 </a>
+
+</div>
 
 </div>
 
